@@ -1,0 +1,46 @@
+[
+	{
+		"title": "Space Marine Lobo Lunar",
+		"description": "Space Marine Lobos Lunares",
+		"price": 55000,
+		"status": "true",
+		"category": "Miniatura",
+		"thumbnail": "./public/img/lobolunar.jpg",
+		"code": "MSMLL",
+		"stock": "40",
+		"id": 1
+	},
+	{
+		"id": 2,
+		"title": "Primarca Roboute Guilliman",
+		"description": "Primarca Ultramarines",
+		"price": 150000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "./public/img/guilliman.jpg",
+		"code": "MPRGU",
+		"stock": "25"
+	},
+	{
+		"id": 3,
+		"title": "Space Marine Primaris Ultramarine",
+		"description": "Primaris Ultramarines",
+		"price": 50000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "./public/img/primaris.jpg",
+		"code": "MSMPU",
+		"stock": "50"
+	},
+	{
+		"id": 4,
+		"title": "Primarca Lion El'Jonson",
+		"description": "Miniatura Primarca Angeles Oscuros",
+		"price": 120000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "./public/img/lion.jpg",
+		"code": "MPLJAO",
+		"stock": "30"
+	}
+]
